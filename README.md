@@ -1,5 +1,6 @@
 # Convex Hull Visualization & Algorithms
 This project demonstrates multiple convex hull algorithms with real-time visualization, making computational geometry concepts more interactive and easy to understand.
+
 ---
 
 ## Algorithms Implemented
